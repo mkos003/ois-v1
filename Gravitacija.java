@@ -1,5 +1,5 @@
 public class Gravitacija{
     public static void main(String[]args){
-        System.out.println("OIS je zakon!!");
+        //dodaj funkcijo, ki izpiše podano nadmorsko višino in gravitacijski pospešek
     }
 }
