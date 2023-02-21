@@ -1,0 +1,1 @@
+Znotraj repozitorija prilepi svojo fotografijo.
