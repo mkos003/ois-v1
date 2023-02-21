@@ -1,1 +1,1 @@
-Znotraj repozitorija prilepi svojo fotografijo.
+Znotraj repozitorija prilepi svojo fotografijo in jo poimenuj z vpisno stevilko "b1234567.jpg".
