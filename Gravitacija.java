@@ -1,5 +1,9 @@
 public class Gravitacija{
     public static void main(String[]args){
-        //dodaj funkcijo, ki izpiše podano nadmorsko višino in gravitacijski pospešek
+
+    }
+    public static void izpis(int nadmorskaVisina){
+        System.out.println("Vnesena nadmorska visina: "+nadmorskaVisina);
+        System.out.println("Gracitacijski pospesek pri tej visini: "+izracunNadmorskeVisine(nadmorskaVisina));
     }
 }
