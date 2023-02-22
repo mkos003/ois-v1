@@ -5,7 +5,7 @@ public class Gravitacija{
         Scanner bralnik=new Scanner(System.in);
         System.out.println("Vnesite visino:");
         int visina=bralnik.nextInt();
-        izpis();
+        izpis(visina);
 
 
     }
