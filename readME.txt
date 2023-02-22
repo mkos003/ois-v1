@@ -1,1 +1,0 @@
-V ta repozitorij dodaj tudi lastno fotografijo in označi svoja opravila kot rešena. Ime datoteka z vpisno številko npr. "b1234567.jpg".
